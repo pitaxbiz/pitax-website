@@ -1,4 +1,4 @@
-baseURL = 'https://pitaxbusinesssolutions.com/'
+baseURL = 'https://www.pitaxbusinesssolutions.com/'
 languageCode = 'en-us'
 title = 'PITAX Business Solutions LLC'
 theme = 'hugo-universal-theme'
