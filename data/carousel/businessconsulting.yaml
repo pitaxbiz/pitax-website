@@ -1,0 +1,11 @@
+weight: 3
+title: "Business Consulting"
+description: >
+  <ul class="list-style-none">
+    <li>Strategic business planning</li>
+    <li>Financial forecasting & risk management</li>
+    <li>Regulatory compliance guidance</li>
+    <li>Operational efficiency optimization</li>
+  </ul>
+image: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&h=500"
+href: "businessconsulting"
