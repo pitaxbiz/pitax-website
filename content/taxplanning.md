@@ -1,6 +1,5 @@
 +++
 title = "Tax Planning"
-id = "taxplanning"
 +++
 
 # Tax Planning

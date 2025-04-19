@@ -1,6 +1,5 @@
 +++
 title = "Business Consulting"
-id = "businessconsulting"
 +++
 
 # Business Consulting
